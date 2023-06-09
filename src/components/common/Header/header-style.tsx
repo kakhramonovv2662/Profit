@@ -11,7 +11,7 @@ export const HeaderSection = styled.header`
     min-height: 100vh;
     height: 100%;
     position: fixed;
-    z-index: 2;
+    z-index: 1001 !important;
     background-color: #fff;
     text-align: right;
     top: 0;

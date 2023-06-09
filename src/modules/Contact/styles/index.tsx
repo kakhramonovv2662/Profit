@@ -5,11 +5,7 @@ import styled from "styled-components";
 export const ContactSection = styled.section``;
 export const ContactContainer = styled.div``;
 export const ContactWrapper = styled.div`
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 0.1) -1.79%,
-    rgba(255, 255, 255, 0.024) 123.08%
-  );
+  background: linear-gradient(90deg, #622cb279 -1.52%, #832cb2b7 104.35%);
   backdrop-filter: blur(60px);
   border-radius: 30px;
   display: flex;
@@ -117,7 +113,6 @@ export const ContacFormtWrapper = styled.div`
     margin: 0 auto;
   }
 `;
-
 export const ContacFormtTitle = styled.h2`
   font-weight: 800;
   font-size: 40px;
@@ -139,7 +134,6 @@ export const ContacFormtTitle = styled.h2`
     line-height: 50px;
   }
 `;
-
 export const ContacFormtText = styled.p`
   font-size: 20px;
   line-height: 27px;

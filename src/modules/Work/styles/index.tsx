@@ -49,11 +49,7 @@ export const DescriptionList = styled.ul`
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 0.1) -1.52%,
-    rgba(255, 255, 255, 0.024) 104.35%
-  );
+  background: linear-gradient(90deg, #622cb279 -1.52%, #832cb2b7 104.35%);
   backdrop-filter: blur(60px);
   border-radius: 30px;
   padding: 73px 50px;
