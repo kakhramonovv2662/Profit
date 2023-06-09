@@ -116,11 +116,7 @@ export const ServicesList = styled.ul`
 export const ServicesListItems = styled.li`
   max-width: 315px;
   width: 100%;
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 0.1) -1.52%,
-    rgba(255, 255, 255, 0.024) 104.35%
-  );
+  background: linear-gradient(90deg, #622cb279 -1.52%, #832cb2b7 104.35%);
   backdrop-filter: blur(60px);
   padding: 38px 85px 40px 25px;
   margin: 25px 30px;

@@ -38,11 +38,7 @@ export const GuaranteeListItems = styled.li`
   max-width: 300px;
   height: 163px;
   padding: 55px 40px;
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 0.1) -1.79%,
-    rgba(255, 255, 255, 0.024) 123.08%
-  );
+  background: linear-gradient(90deg, #622cb279 -1.52%, #832cb2b7 104.35%);
   backdrop-filter: blur(60px);
   border-radius: 30px;
   position: relative;
